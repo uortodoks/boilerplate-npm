@@ -1,6 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Roman Khripunkov",
+	"name": "fcc-learn-npm-package-json",	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -15,4 +14,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	"author": "Roman Khripunkov",
 }
