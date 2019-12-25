@@ -13,6 +13,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
-	"author": "Roman Khripunkov",
+	},
+	"author": "Roman Khripunkov"
 }
